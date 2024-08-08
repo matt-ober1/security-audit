@@ -1,9 +1,5 @@
 # Controls and compliance checklist
 
-To complete the controls assessment checklist, refer to the information provided in the [scope, goals, and risk assessment report](https://docs.google.com/document/d/1s2u\_RuhRAI40JSh-eZHvaFsV1ZMxcNSWXifHDTOsgFc/template/preview\#heading=h.evidx83t54sc). For more details about each control, including the type and purpose, refer to the [control categories](https://docs.google.com/document/d/1btezuy\_bMKWoK8pd97ZuzdWB9y6au\_zfkrpkfVf8ktI/template/preview) document.
-
-Then, select “yes” or “no” to answer the question: *Does Botium Toys currently have this control in place?* 
-
 **Controls assessment checklist**
 
 | Yes | No  | Control                                                             |
@@ -25,9 +21,6 @@ Then, select “yes” or “no” to answer the question: *Does Botium Toys cur
 
 ---
 
-To complete the compliance checklist, refer to the information provided in the [scope, goals, and risk assessment report](https://docs.google.com/document/d/1s2u\_RuhRAI40JSh-eZHvaFsV1ZMxcNSWXifHDTOsgFc/template/preview). For more details about each compliance regulation, review the [controls, frameworks, and compliance](https://www.coursera.org/learn/foundations-of-cybersecurity/supplement/xu4pr/controls-frameworks-and-compliance) reading.
-
-Then, select “yes” or “no” to answer the question: *Does Botium Toys currently adhere to this compliance best practice?*
 
 **Compliance checklist**
 
@@ -60,7 +53,6 @@ System and Organizations Controls (SOC type 1, SOC type 2\)
 
 ---
 
-This section is *optional* and can be used to provide a summary of recommendations to the IT manager regarding which controls and/or compliance best practices Botium Toys needs to implement, based on the risk posed if not implemented in a timely manner.
 
 **Recommendations for Enhanced Security Implementations**
 
